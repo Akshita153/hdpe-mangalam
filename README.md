@@ -1,5 +1,4 @@
 # hdpe-mangalam
-# hdpe-mangalam
 
 Mangalam HDPE Website
 
@@ -37,7 +36,7 @@ A responsive industrial product website built using HTML5, CSS3, and Vanilla Jav
 ## Project Structure
 
 ```plaintext
-GUSHWORK/
+HDPE-MANGALAM/
 │
 ├── assets/
 │   ├── css/
